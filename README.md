@@ -1,63 +1,34 @@
 # Aura Identity
 
-## Dot 
 
-#### Aldo
-![image](https://raw.github.com/hull/aura-identity/master/logo/export/Dot/Aldo.png)
+# Full Color
 
-#### Gotham Book
-![image](https://raw.github.com/hull/aura-identity/master/logo/export/Dot/Gotham%20Book.png)
+#### Halo
+![image](https://raw.github.com/hull/aura-identity/master/logo/export/halo.png)
 
-#### Gotham Medium
-![image](https://raw.github.com/hull/aura-identity/master/logo/export/Dot/Gotham%20Medium.png)
-
-#### Helvetica
-![image](https://raw.github.com/hull/aura-identity/master/logo/export/Dot/Helvetica.png)
-
-#### Hermes
-![image](https://raw.github.com/hull/aura-identity/master/logo/export/Dot/Hermes.png)
-
-#### Proxima Nova Semibold
-![image](https://raw.github.com/hull/aura-identity/master/logo/export/Dot/ProximaNova%20Semibold.png)
-
-#### Source Sans Variations
-![image](https://raw.github.com/hull/aura-identity/master/logo/export/Dot/Source%20Sans%20Variations.png)
-
-#### Source Sans
-![image](https://raw.github.com/hull/aura-identity/master/logo/export/Dot/Source%20Sans.png)
+#### text_dot
+![image](https://raw.github.com/hull/aura-identity/master/logo/export/text_dot.png)
 
 
-## Halo
+# 1 Color
+#### Halo
+![image](https://raw.github.com/hull/aura-identity/master/logo/export/1_color_halo.png)
 
-#### Aldo
-![image](https://raw.github.com/hull/aura-identity/master/logo/export/Halo/Aldo.png)
+#### Text Dot
+![image](https://raw.github.com/hull/aura-identity/master/logo/export/1_color_text_dot.png)
 
-#### Dax
-![image](https://raw.github.com/hull/aura-identity/master/logo/export/Halo/Dax.png)
+# Black
 
-#### Gotham Uppercase
-![image](https://raw.github.com/hull/aura-identity/master/logo/export/Halo/Gotham%20uppercase%202.png)
+#### Halo
+![image](https://raw.github.com/hull/aura-identity/master/logo/export/black_halo.png)
 
-#### Gotham Uppercase 2
-![image](https://raw.github.com/hull/aura-identity/master/logo/export/Halo/Gotham%20uppercase.png)
+#### Text Dot
+![image](https://raw.github.com/hull/aura-identity/master/logo/export/black_text_dot.png)
 
-#### Gotham
-![image](https://raw.github.com/hull/aura-identity/master/logo/export/Halo/Gotham.png)
+# Dot only
 
-#### Helvetica
-![image](https://raw.github.com/hull/aura-identity/master/logo/export/Halo/Helvetica.png)
-
-#### Meta
-![image](https://raw.github.com/hull/aura-identity/master/logo/export/Halo/Meta.png)
-
-#### Quay
-![image](https://raw.github.com/hull/aura-identity/master/logo/export/Halo/Quay.png)
-
-#### Source Sans
-![image](https://raw.github.com/hull/aura-identity/master/logo/export/Halo/Source%20Sans.png)
-
-#### Source Sans Semibold
-![image](https://raw.github.com/hull/aura-identity/master/logo/export/Halo/Source%20Semibold.png)
+#### Single Dot
+![image](https://raw.github.com/hull/aura-identity/master/logo/export/dot_single.png)
 
 
 MIT License (c) Aura project
