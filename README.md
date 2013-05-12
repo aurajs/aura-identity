@@ -1,7 +1,7 @@
 # Aura Identity
 
 # SVG
-<a href="https://rawgithub.com/aurajs/aura-identity/master/logo/logo.svg"><img src="https://rawgithub.com/aurajs/aura-identity/master/logo/logo.svg" class='svg' width="200"/></a>
+<a href="https://rawgithub.com/aurajs/aura-identity/master/logo/logo.svg"><img src="https://rawgithub.com/aurajs/aura-identity/master/logo/logo.svg" class='svg' width="400"/></a>
 
 # Full Color
 
